@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Android",
+  "description": "An immersive virtual machine simulation running Android OS, featuring classic Play Store system icons, terminal console, dialer, messenger, photos, settings and authentic Material 3 interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
